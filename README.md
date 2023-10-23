@@ -1,2 +1,5 @@
-# roct
-Return on Campaign Transparency
+# Return on Campaign Transparency
+
+![](chart.png)
+
+See [Python Notebook](ReturnOnElections.ipynb) for details.
